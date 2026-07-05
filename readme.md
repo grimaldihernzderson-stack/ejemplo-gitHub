@@ -6,3 +6,5 @@ git config --global --add safe.directory  ---- Permite que toda la carpeta se ca
 #Para conectar
 
 git remote add origin https://github.com/grimaldihernzderson-stack/ejemplo-gitHub.git
+
+#esto es una modificación que he creado para practicar.
